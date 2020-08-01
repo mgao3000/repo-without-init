@@ -1,2 +1,8 @@
 add 1st comment in file3.txt within master branch  
 add 2nd comment in file3.txt within master branch  
+add 1st master comment in file3.txt within master branch  
+add 2nd master comment in file3.txt within master branch  
+add 3rd master comment in file3.txt within master branch  
+add 4th master comment in file3.txt within master branch  
+add 5th master comment in file3.txt within master branch  
+add 6th master comment in file3.txt within master branch  

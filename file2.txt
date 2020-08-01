@@ -1,0 +1,6 @@
+add comment in master bracnh for file2.txt 1 
+add comment in master bracnh for file2.txt 2 
+add comment in master bracnh for file2.txt 3 
+add comment in master bracnh for file2.txt 4 
+add comment in master bracnh for file2.txt 5 
+add comment in master bracnh for file2.txt 6   
