@@ -1,1 +1,4 @@
 file8.txt in feature-1 branch 
+file8 refactor code for feature No.1 
+file8 refactor code for feature No.2 
+file8 refactor code for feature No.3 
