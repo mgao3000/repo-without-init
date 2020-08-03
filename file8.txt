@@ -1,4 +1,3 @@
-file8.txt in feature-1 branch 
-file8 refactor code for feature No.1 
-file8 refactor code for feature No.2 
-file8 refactor code for feature No.3 
+file8.txt modified from github.com
+
+a totally brand new message -- Hello World!
